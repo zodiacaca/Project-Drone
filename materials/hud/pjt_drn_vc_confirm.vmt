@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/dr_vc_confirm"
+	"$translucent" 1
+}

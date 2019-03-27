@@ -1,0 +1,11 @@
+{
+	"title"		:	"Project Drone",
+	"type"		:	"vehicle",
+	"tags"		:	[ "scenic", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

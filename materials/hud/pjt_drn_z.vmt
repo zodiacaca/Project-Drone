@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/dr_pointer_z"
+	"$translucent" 1
+	"$alpha" 1
+	"$vertexalpha" "1"
+	"$ignorez"     "1"
+}

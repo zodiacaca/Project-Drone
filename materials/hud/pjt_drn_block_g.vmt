@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/dr_block_g"
+	"$translucent" 1
+}

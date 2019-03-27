@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/project_drone/terminal"
+	"$bumpmap" "models/project_drone/terminal_n"
+}
